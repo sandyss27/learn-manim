@@ -1,5 +1,5 @@
-manim
 numpy
 scipy
 sympy
 pandas
+manim
