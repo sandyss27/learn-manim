@@ -6,6 +6,7 @@ diskcache
 ipython>=8.18.0
 isosurfaces
 fontTools
+manim
 manimpango>=0.6.0
 mapbox-earcut
 matplotlib
